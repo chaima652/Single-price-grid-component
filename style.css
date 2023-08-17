@@ -27,7 +27,7 @@
 	justify-content: center;
 	background-color: hsl(204, 43%, 93%);
 	padding: 100px 30px;
-	  font-family:var( 'karla', sans-serif);
+    	 font-family: var(--font-family);
 }
 .container {
 	display: grid;
